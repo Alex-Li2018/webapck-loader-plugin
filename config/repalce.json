@@ -1,0 +1,17 @@
+
+    
+[
+    {
+        "rule": "/__REPLACE_PARAMS__/g",
+        "replaceTxt": "aaaa"
+    },
+    {
+        "rule": "/__REPLACE_PARAMS_1__/g",
+        "replaceTxt": "bbb"
+    },
+    {
+        "rule": "/__REPLACE_PARAMS_2__/g",
+        "replaceTxt": "bb"
+    }
+]
+    
